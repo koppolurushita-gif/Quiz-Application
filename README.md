@@ -12,5 +12,4 @@ and checks whether the answer is correct.
 ## How to Run
 javac QuizApplication.java
 
-
 java QuizApplication
