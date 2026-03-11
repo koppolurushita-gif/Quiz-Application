@@ -1,15 +1,27 @@
-# Quiz-Calculator
-# Quiz Application
+# Quiz Application (Java)
 
-## Project Description
-This is a simple Java quiz program that asks a question
-and checks whether the answer is correct.
+## 📌 Project Description
+The Quiz Application is a simple console-based Java program that allows users to answer a multiple-choice question. The application takes user input and checks whether the selected answer is correct or incorrect.
 
-## Technologies Used
+This project demonstrates basic Java programming concepts such as user input handling, conditional statements, and program flow control.
+
+## 🚀 Features
+- Displays a multiple-choice question
+- Accepts user input
+- Validates the answer
+- Shows correct or incorrect result
+
+## 🛠 Technologies Used
 - Java
 - Scanner Class
+- Conditional Statements
 
-## How to Run
-javac QuizApplication.java
+## 📂 Project Structure
+QuizApplication/
+│
+├── QuizApplication.java
+└── README.md
 
-java QuizApplication
+## ▶️ How to Run the Project
+
+1. Clone the repository
